@@ -1,0 +1,47 @@
+body {
+background-color: #e6e6e6;
+}
+.navbar{
+background-color: white;
+}
+#carouselExampleIndicators {
+    height: 600px;
+    overflow: hidden;
+}
+
+
+.grey {
+    background-color: #e6e6e6 ;
+    height: 500px;
+}
+
+
+.services i{
+    font-size:4rem;
+    color: #4682B4;
+}
+
+
+
+.box-usluge{
+    background: #ffffff;
+    background-color: #FFFFFF;
+    box-shadow: 1px 1px 10px rgba(0,0,0,0.2);
+    min-height: 298px;
+}
+
+.box-usluge:hover{
+    box-shadow: 1px 1px 10px rgba(0,0,0,0.4);
+}
+
+
+footer {
+    background: #212529;
+    color: white;
+}
+
+.topFooter {
+    height: 40px;
+    background-color: #ff3333;
+    text-align: center;
+}
