@@ -1,11 +1,11 @@
 body {
-background-color: #e6e6e6;
+background-color: #e6f3ff;
 }
 .navbar{
 background-color: white;
 }
 #carouselExampleIndicators {
-    height: 600px;
+    height: 780px;
     overflow: hidden;
 }
 
@@ -45,3 +45,16 @@ footer {
     background-color: #ff3333;
     text-align: center;
 }
+
+.img-fluid {
+    box-shadow: 1px 1px 10px rgba(0,0,0,0.4);
+}
+
+.img-fluid:hover{
+    box-shadow: 1px 1px 10px rgba(0,0,0,0.8);
+}
+
+.about {
+    background-color: white;
+}
+
