@@ -1,5 +1,11 @@
 body {
 background-color: #e6f3ff;
+    font-family: sans-serif;
+}
+
+body i{
+    color: red;
+    font-size: 2rem;
 }
 .navbar{
 background-color: white;
@@ -33,7 +39,9 @@ background-color: white;
 .box-usluge:hover{
     box-shadow: 1px 1px 10px rgba(0,0,0,0.4);
 }
-
+.box-usluge i{
+    color: #999999;
+}
 
 footer {
     background: #212529;
@@ -56,5 +64,27 @@ footer {
 
 .about {
     background-color: white;
+
+}
+
+.stoni {
+    padding-top: 100px;
+}
+
+.pics{
+    background-color: white;
+}
+
+.pricing {
+    background-image:url("../images/contact-background.jpg");
+
+}
+
+.pricing h2{
+    color:white;
+}
+
+.pricing li{
+    font-size: 1.5rem;
 }
 
