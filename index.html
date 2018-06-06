@@ -10,20 +10,21 @@
     <link href="https://fonts.googleapis.com/css?family=Montserrat&amp;subset=latin-ext" rel="stylesheet">
     <link rel="stylesheet" href="css/magnific-popup.css">
     <link rel="stylesheet" href="css/animate.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&amp;subset=latin-ext" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="css/styles.css">
 </head>
 <body>
+<div id="pocetna"></div>
 <div class="container-fluid p-0">
 
     <nav class="navbar navbar-expand-sm navbar p-4 fixed-top">
-        <a href="index.php?stranica=index" class="navbar-brand logo"><i class="fas fa-table-tennis"></i> STONI TENIS</a>
+        <a href="#pocetna" class="navbar-brand logo slide-section"><i class="fas fa-table-tennis"></i> STONI TENIS</a>
         <div class="collapse navbar-collapse">
             <ul class="navbar-nav ml-auto ">
-                <li class="nav-item ml-5 mr-5"><a href="#onama" class="nav-link">O NAMA</a></li>
-                <li class="nav-item ml-5 mr-5"><a href="index.php?stranica=services" class="nav-link">USLUGE</a></li>
-                <li class="nav-item ml-5 mr-5"><a href="index.php?stranica=gallery" class="nav-link">GALERIJA</a></li>
-                <li class="nav-item ml-5 mr-5"><a href="index.php?stranica=contact" class="nav-link">KONTAKT</a></li>
-
+                <li class="nav-item ml-5 mr-5"><a href="#onama" class="nav-link slide-section">O NAMA</a></li>
+                <li class="nav-item ml-5 mr-5"><a href="#cenovnik" class="nav-link slide-section">CENOVNIK</a></li>
+                <li class="nav-item ml-5 mr-5"><a href="#galerija" class="nav-link slide-section">GALERIJA</a></li>
+                <li class="nav-item ml-5 mr-5"><a href="#kontakt" class="nav-link slide-section">KONTAKT</a></li>
 
             </ul>
 
@@ -60,62 +61,72 @@
 </div>
 
 <div class="container-fluid text-center usluge pb-5 icons ">
-    <h2 class="m-5 stoni">STONI TENIS</h2>
+    <h2 class="mb-5 stoni">STONI TENIS</h2>
     <div class="row services wow bounceInUp">
         <div class="col-3">
 
         </div>
         <div class="col-2 text-center">
             <div class="box-usluge p-4">
+                <div class="unutra mt-5">
 
                 <i class="fas fa-table-tennis"></i>
-                <h3>Stručni tim</h3>
+                <h3></h3>
                 <p>Sala ima 5 Donic 25 mm stolova za trening i jedan sto sa robotom</p>
             </div>
-        </div>
-        <div class="col-2">
-            <div class="box-usluge p-4">
-                <i class="fab fa-accessible-icon"></i>
-                <h3>Inovativne metode</h3>
-                <p>Sala je specijalno opremljena za osobe sa invaliditetom</p>
             </div>
         </div>
         <div class="col-2">
             <div class="box-usluge p-4">
+                <div class="unutra mt-5">
+                <i class="fab fa-accessible-icon"></i>
+                <h3></h3>
+                <p>Sala je specijalno opremljena za osobe sa invaliditetom</p>
+            </div>
+            </div>
+        </div>
+        <div class="col-2">
+            <div class="box-usluge p-4">
+                <div class="unutra mt-5">
                 <i class="fas fa-fire"></i>
                 <i class="fas fa-snowflake"></i>
-                <h3>Kvalitetna usluga</h3>
+                <h3></h3>
                 <p>Sala ima adekvatno grejanje i
                     klima uredjaj</p>
+            </div>
             </div>
         </div>
 
     </div>
 </div>
-<a name="onama"></a>
+
+<div id="onama"></div>
 <div class="about pb-5">
     <div class="container">
         <div class="row">
             <div class="col-6">
                 <h2 class="text-center pb-5 pt-5">O NAMA</h2>
+                <div class="aboutUs wow bounceInUp">
                 <img src="images/o_nama.jpg" class="img-fluid mb-3">
-                <p>Stonoteniska sala blizu kružnog toka na Veterniku je otvorena za sve entuzijaste, od predškolskog do
+                <p class="">Stonoteniska sala blizu kružnog toka na Veterniku je otvorena za sve entuzijaste, od predškolskog do
                     seniorskog doba.
                     Specijano je opremljena i za osobe sa invaliditetom, što znaci svi stonoteniseri
-                    kao i oni koji hoće da nauče su dobrodošli. Sala ima 5 stolova za trening i jedan sto sa robotom.
+                    kao i oni koji hoće da nauče su dobrodošli.
                 </p>
                 <p class="text-center">
                     <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#onama-detaljnije">
                         Detaljnije
                     </button>
                 </p>
-
-
+                </div>
             </div>
-            <div class="col-6">
-                <h2 class="text-center pb-5 pt-5">Istorijat</h2>
+            <div class="col-6 istorijat">
+                <h2 class="text-center pb-5 pt-5">ISTORIJAT</h2>
+                <div class="aboutUs wow bounceInUp">
                 <img src="images/tebale-tenni-istorijat.jpg" height="" class="img-fluid mb-3">
-                <p class="text-center">Kako je nastala ideja o sali u Veterniku <br>
+                <p class="">Sve je počelo pre par godina u Torontu. Moj
+                    prijatelj i čovek koji je u uskom krugu prijatelja poznat kao kum (ne mafijaški), po imenu Steva
+                    me je ponovo zainteresovao za stoni tenis. <br>
                 </p>
                 <p class="text-center">
                     <button type="button" class="btn btn-primary" data-toggle="modal"
@@ -123,8 +134,8 @@
                         Detaljnije
                     </button>
                 </p>
+                </div>
             </div>
-
         </div>
 
         <!-- The Modal -->
@@ -193,7 +204,7 @@
 
                     <!-- Modal footer -->
                     <div class="modal-footer">
-                        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+                        <button type="button" class="btn btn-danger" data-dismiss="modal">Zatvori</button>
                     </div>
 
                 </div>
@@ -206,7 +217,7 @@
 
                 <!-- Modal Header -->
                 <div class="modal-header">
-                    <h4 class="modal-title">O nama</h4>
+                    <h4 class="modal-title">Istorijat</h4>
                     <button type="button" class="close" data-dismiss="modal">&times;</button>
                 </div>
 
@@ -304,7 +315,7 @@
 
                 <!-- Modal footer -->
                 <div class="modal-footer">
-                    <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-danger" data-dismiss="modal">Zatvori</button>
                 </div>
 
             </div>
@@ -313,12 +324,12 @@
 </div>
 
 
-</div>
-</div>
+
+<div id="cenovnik"></div>
 <div class="pricing pb-5">
     <div class="container pt-5 ">
         <h2 class="text-center mb-5">Cenovnik</h2>
-        <div class="card-deck mb-3 text-center">
+        <div class="card-deck mb-3 text-center wow bounceInUp">
             <div class="card mb-4 box-shadow">
                 <div class="card-header">
                     <h4 class="my-0 font-weight-normal"><i class="fas fa-table-tennis"></i></h4>
@@ -372,11 +383,16 @@
         </div>
     </div>
 </div>
+<div class="ping_pong">
+
+</div>
+
+<div id="galerija"></div>
 <div class="pics pb-5 pt-5">
-    <div class="container wow bounceInUp">
+    <div class="container">
         <h2 class="text-center pb-5 mt-5">GALERIJA</h2>
 
-        <div class="row">
+        <div class="row wow bounceInUp">
             <div class="col-4 mb-4">
                 <a class="test-popup-link" href="images/gallery/1.JPG">
                     <img src="images/gallery_small/1small.JPG" class="img-fluid">
@@ -394,7 +410,7 @@
                 </a>
             </div>
         </div>
-        <div class="row">
+        <div class="row wow bounceInUp">
             <div class="col-4 mb-4">
                 <a class="test-popup-link" href="images/gallery/4.JPG">
                     <img src="images/gallery_small/4small.JPG" class="img-fluid">
@@ -413,7 +429,7 @@
                 </a>
             </div>
         </div>
-        <div class="row">
+        <div class="row wow bounceInUp">
             <div class="col-4 mb-4">
                 <a class="test-popup-link" href="images/gallery/7.JPG">
                     <img src="images/gallery_small/7small.JPG" class="img-fluid">
@@ -436,8 +452,8 @@
 
 </div>
 </div>
-
-<iframe class="wow bounceInUp"
+<div id="kontakt"></div>
+<iframe class=""
         src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2362.0100439997364!2d19.757650120365273!3d45.24942765609668!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475b11f8d7eaa2d5%3A0xf96bb1bb3e4432eb!2z0JrRgNGD0LbQvdC4INGC0L7QuiDQktC10YLQtdGA0L3QuNC6!5e0!3m2!1ssr!2srs!4v1527685076334"
         width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
@@ -481,32 +497,19 @@
     </div>
 </footer>
 
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
-        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
-        crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.1.0.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
         integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
         crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
         integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
         crossorigin="anonymous"></script>
-<script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
+
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/wow.min.js"></script>
+<script src="js/classie.js"></script>
 <script src="js/scripts.js"></script>
 
-<script>
-    $('.carousel').carousel({
-        interval: 4000
-    })
-    $(document).ready(function () {
-        $('.test-popup-link').magnificPopup({type: 'image'});
 
-    });
-</script>
-
-<script>
-    new WOW().init();
-</script>
 </body>
 </html>

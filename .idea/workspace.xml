@@ -4,7 +4,92 @@
     <list default="true" id="a591f844-1d82-4d6c-847d-03f8c8c20d4a" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/table_tennis1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/table_tennis1.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/table_tennis2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/table_tennis3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/table_tennis3.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/table_tennis4.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/table_tennis4.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Magnific-Popup-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Magnific-Popup-master/.jshintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Magnific-Popup-master/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/css/magnific-popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/css/scrolling-nav.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/images/contact-background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/images/gallery/1.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/images/gallery/2.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/images/gallery/3.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/images/gallery/4.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/images/gallery/5.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/images/gallery/6.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/images/gallery/7.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/images/gallery/8.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/images/gallery/9.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/images/gallery_small/1small.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/images/gallery_small/2small.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/images/gallery_small/3small.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/images/gallery_small/4small.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/images/gallery_small/5small.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/images/gallery_small/6small.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/images/gallery_small/7small.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/images/gallery_small/8small.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/images/gallery_small/9small.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/images/o_nama.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/images/table_tennis1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/images/table_tennis2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/images/table_tennis3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/images/table_tennis4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/images/tebale-tenni-istorijat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/Gruntfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/dist/jquery.magnific-popup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/dist/jquery.magnific-popup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/dist/magnific-popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/libs/jquery-loader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/libs/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/libs/qunit/qunit.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/libs/qunit/qunit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/magnific-popup.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/src/css/_settings.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/src/css/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/src/js/ajax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/src/js/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/src/js/gallery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/src/js/iframe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/src/js/image.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/src/js/inline.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/src/js/retina.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/src/js/zoom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/website/_includes/analytics.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/website/_includes/build-tool.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/website/_includes/examples.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/website/_includes/logo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/website/_includes/signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/website/_layouts/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/website/documentation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/website/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/website/site-assets/ajax/test-ajax-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/website/site-assets/ajax/test-ajax.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/website/site-assets/site.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/website/third-party-libs/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/website/third-party-libs/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/website/third-party-libs/uglify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/website/third-party-libs/zepto.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/website/third-party-libs/zepto.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/Magnific-Popup-master/website/wordpress.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/jquery.magnific-popup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/jquery.magnific-popup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/scrolling-nav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stonitenis-master/js/wow.min.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +103,8 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+            <state relative-caret-position="480">
+              <caret line="68" column="18" selection-start-line="68" selection-start-column="18" selection-end-line="68" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -27,21 +112,28 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="734">
-              <caret line="301" column="56" selection-start-line="301" selection-start-column="56" selection-end-line="301" selection-end-column="56" />
-              <folding>
-                <element signature="e#11094#11101#1" expanded="true" />
-                <element signature="e#11103#11110#1" expanded="true" />
-                <element signature="n#style#0;n#iframe#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#10886#10892#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="270">
+              <caret line="206" column="97" selection-start-line="206" selection-start-column="97" selection-end-line="206" selection-end-column="97" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lib.dom.d.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84120">
+              <caret line="5621" column="4" selection-start-line="5621" selection-start-column="4" selection-end-line="5621" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="scripts.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/scripts.js">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -49,6 +141,15 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>&lt;a href</find>
+      <find>#galerija</find>
+      <find>galerija</find>
+      <find>pics</find>
+      <find>usl</find>
+      <find>box</find>
+      <find>stoni</find>
+      <find>liverel</find>
+      <find>onama</find>
+      <find>ston</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -57,6 +158,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/stonitenis-master/index.html" />
+        <option value="$PROJECT_DIR$/js/scripts.js" />
         <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
@@ -73,7 +176,7 @@
       <path value="$PROJECT_DIR$/js/Magnific-Popup-master/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1920" />
     <option name="width" value="1920" />
     <option name="height" value="1044" />
@@ -131,12 +234,16 @@
       <updated>1527666210770</updated>
       <workItem from="1527666211999" duration="16476000" />
       <workItem from="1527836005248" duration="18838000" />
-      <workItem from="1528093670345" duration="21084000" />
+      <workItem from="1528093670345" duration="21197000" />
+      <workItem from="1528267217648" duration="144000" />
+      <workItem from="1528267379530" duration="8805000" />
+      <workItem from="1528281436072" duration="2239000" />
+      <workItem from="1528287450006" duration="6468000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56398000" />
+    <option name="totallyTimeSpent" value="74167000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="1920" height="1044" extended-state="6" />
@@ -172,6 +279,96 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="59" column="29" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="69" column="20" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84315">
+          <caret line="5621" column="4" selection-start-line="5621" selection-start-column="4" selection-end-line="5621" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="50" selection-start-line="52" selection-start-column="50" selection-end-line="52" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="62" column="2" selection-start-line="62" selection-start-column="2" selection-end-line="62" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84315">
+          <caret line="5621" column="4" selection-start-line="5621" selection-start-column="4" selection-end-line="5621" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4215">
+          <caret line="281" column="51" selection-start-line="281" selection-start-column="51" selection-end-line="281" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4170">
+          <caret line="278" column="82" lean-forward="true" selection-start-line="278" selection-start-column="82" selection-end-line="278" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="900">
           <caret line="60" selection-start-line="60" selection-end-line="60" />
         </state>
@@ -184,12 +381,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="62" lean-forward="true" selection-start-line="21" selection-start-column="56" selection-end-line="21" selection-end-column="62" />
-          <folding>
-            <element signature="e#11094#11101#1" expanded="true" />
-            <element signature="e#11103#11110#1" expanded="true" />
-            <element signature="n#style#0;n#iframe#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#10886#10892#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -204,38 +395,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1665">
           <caret line="111" lean-forward="true" selection-start-line="111" selection-end-line="111" />
-          <folding>
-            <element signature="e#11094#11101#1" expanded="true" />
-            <element signature="e#11103#11110#1" expanded="true" />
-            <element signature="n#style#0;n#iframe#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#10886#10892#0" expanded="true" />
-          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/css/animate.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84120">
+          <caret line="5621" column="4" selection-start-line="5621" selection-start-column="4" selection-end-line="5621" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stonitenis-master/index.html" />
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        <state relative-caret-position="480">
+          <caret line="68" column="18" selection-start-line="68" selection-start-column="18" selection-end-line="68" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="734">
-          <caret line="301" column="56" selection-start-line="301" selection-start-column="56" selection-end-line="301" selection-end-column="56" />
-          <folding>
-            <element signature="e#11094#11101#1" expanded="true" />
-            <element signature="e#11103#11110#1" expanded="true" />
-            <element signature="n#style#0;n#iframe#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#10886#10892#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="270">
+          <caret line="206" column="97" selection-start-line="206" selection-start-column="97" selection-end-line="206" selection-end-column="97" />
         </state>
       </provider>
     </entry>
