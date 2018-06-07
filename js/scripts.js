@@ -1,6 +1,17 @@
 $(document).ready(function () {
-    $('.test-popup-link').magnificPopup({type: 'image'});
+    //$('.test-popup-link').magnificPopup({type: 'image'});
 
+    $('.popup-gallery').magnificPopup({
+        delegate: 'a',
+        type: 'image',
+        tLoading: 'Loading image #%curr%...',
+        mainClass: 'mfp-img-mobile',
+        gallery: {
+            enabled: true,
+            navigateByImgClick: true,
+            preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+        }
+    });
 
     $('.slide-section').click(function (e) {
         var linkHref = $(this).attr('href');
