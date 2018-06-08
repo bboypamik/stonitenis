@@ -4,7 +4,12 @@ background-color: #d9d9d9;
     color: #4d4d4d;
 
 }
-body h1,h2 {
+h1 {
+    font-size: 4rem;
+  
+    font-weight: bolder;
+}
+ h2 {
     font-weight: bolder;
 }
 
@@ -36,6 +41,18 @@ body i{
 .navbar i {
     margin-left: 25px;
 }
+.logo svg{
+    height: 40px;
+    width: auto;
+}
+.logo svg path{
+    fill:#fff;
+}
+
+.smaller .logo svg path{
+    fill:#000;
+}
+
 #carouselExampleIndicators {
     height: 840px;
     overflow: hidden;
