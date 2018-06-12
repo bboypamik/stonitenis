@@ -3,6 +3,7 @@
 <head>
     <title>index</title>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
           integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.12/css/all.css"
@@ -16,18 +17,19 @@
 <body>
 <div id="pocetna"></div>
 <div class="container-fluid p-0">
+    <nav class="navbar fixed-top logo">
 
-    <nav class="navbar navbar-expand-sm navbar p-4 fixed-top">
-        <a href="#pocetna" class="navbar-brand logo slide-section">
-            <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-            <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-            <svg
+                <a class="navbar-brand" href="#pocetna">
+                    <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+                    <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+                    <svg
    id="svg3355"
    version="1.1"
    xml:space="preserve"
-   width="601.25"
-   height="138.75"
+   width="301.25"
+   height="58.75"
    viewBox="0 0 601.25 138.75"><g
      id="g3363"
      inkscape:groupmode="layer"
@@ -78,18 +80,26 @@
              d="m 3818.7779,-512.05465 q 0,-15.83356 12.769,-24.00572 l 60.2697,-45.9684 q 6.1291,-5.1076 13.7905,-5.1076 11.2367,0 20.4304,6.12912 9.1937,6.12912 9.1937,15.3228 l 0,331.99401 q 0,9.70444 -10.2152,15.3228 -9.7045,5.61836 -22.9842,5.61836 -13.7906,0 -23.495,-5.61836 -9.7044,-5.61836 -9.7044,-15.3228 l 0,-272.74585 -16.3444,16.34432 q -5.1076,4.59684 -12.2582,4.59684 -9.1937,0 -15.3228,-8.17216 -6.1291,-8.17216 -6.1291,-18.38736 z"
              style=""
              id="path3425" /></g></g></g></g></svg>
-        </a>
-        <div class="collapse navbar-collapse">
-            <ul class="navbar-nav ml-auto ">
-                <li class="nav-item ml-5 mr-5"><a href="#onama" class="nav-link slide-section">Info</a></li>
-                <li class="nav-item ml-5 mr-5"><a href="#cenovnik" class="nav-link slide-section">Cenovnik</a></li>
-                <li class="nav-item ml-5 mr-5"><a href="#galerija" class="nav-link slide-section">Galerija</a></li>
-                <li class="nav-item ml-5 mr-5"><a href="#kontakt" class="nav-link slide-section">Kontakt</a></li>
+                </a>
+        <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarMenu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
 
-            </ul>
 
-        </div>
+
+
+                <div class="collapse navbar-collapse" id="navbarMenu">
+                    <ul class="nav navbar-nav navbar-right ml-auto">
+                        <li class="nav-item"><a class="nav-link slide-section"  href="#onama">O nama</a></li>
+                        <li class="nav-item"><a class="nav-link slide-section" href="#cenovnik">Cenovnik</a></li>
+                        <li class="nav-item"><a class="nav-link slide-section" href="#galerija">Galerija</a></li>
+                        <li class="nav-item"><a class="nav-link slide-section" href="#kontakt">Info</a></li>
+
+                    </ul>
+                </div>
+
     </nav>
+
 </div>
 
 <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-ride="carousel">
@@ -121,13 +131,13 @@
 
 </div>
 
-<div class="container-fluid text-center usluge pb-3 icons ">
-    <h1 class="mb-5 stoni">TVRĐAVA 021</h1>
-    <div class="row services wow bounceInUp">
+<div class="container-fluid text-center usluge pb-5 icons ">
+
+    <div class="row services pt-5 wow bounceInUp">
         <div class="col-2">
 
         </div>
-        <div class="col-2 text-center">
+        <div class="col-lg-2 text-center">
             <div class="box-usluge p-4">
                 <div class="unutra mt-5">
 
@@ -138,7 +148,7 @@
             </div>
         </div>
 
-        <div class="col-2">
+        <div class="col-lg-2">
             <div class="box-usluge p-4">
                 <div class="unutra mt-5">
                 <i class="fab fa-accessible-icon"></i>
@@ -147,7 +157,7 @@
             </div>
             </div>
         </div>
-        <div class="col-2">
+        <div class="col-lg-2">
             <div class="box-usluge p-4">
                 <div class="unutra mt-5">
                     <i class="fas fa-fire vatra"></i>
@@ -158,7 +168,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-2">
+        <div class="col-lg-2">
             <div class="box-usluge p-4">
                 <div class="unutra mt-5">
                     <i class="fas fa-clock"></i>
@@ -176,8 +186,8 @@
 <div class="about pb-5">
     <div class="container">
         <div class="row">
-            <div class="col-6">
-                <h2 class="text-center pb-5 pt-5">Info</h2>
+            <div class="col-lg-6">
+                <h2 class="text-center pb-5 pt-5">O nama</h2>
                 <div class="aboutUs wow bounceInUp">
                 <img src="images/o_nama.jpg" class="img-fluid mb-3">
                 <p class="">Stonoteniska sala blizu kružnog toka na Veterniku je otvorena za sve entuzijaste, od predškolskog do
@@ -192,7 +202,7 @@
                 </p>
                 </div>
             </div>
-            <div class="col-6 istorijat">
+            <div class="col-lg-6 istorijat">
                 <h2 class="text-center pb-5 pt-5">Istorijat</h2>
                 <div class="aboutUs wow bounceInUp">
                 <img src="images/tebale-tenni-istorijat.jpg" height="" class="img-fluid mb-3">
@@ -385,6 +395,7 @@
                         dva zeca koja igraju stoni tenis. E, pa Futog je blizu, a jednu noć mi zatekli dva zeca kako
                         igraju tenis u našoj novo sagradjenoj sali. E, pa kada mogu zečevi, mogu i svi koji imaju
                         interes za stoni tenis. Dobrodošli!</p>
+                      <img src="images/Zecevi-u-novoj-sali.jpg" width="100%" alt="">
                 </div>
 
                 <!-- Modal footer -->
@@ -532,36 +543,49 @@
         src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d22472.077053447712!2d19.74574826999174!3d45.24759800000001!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475b0e017fa0b959%3A0x36bc5e244e310333!2z0J3QvtCy0LAgMTAxIDM3LCDQktC10YLQtdGA0L3QuNC6!5e0!3m2!1ssr!2srs!4v1528457187206"
         width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-<footer class="py-5">
+<footer class="py-5 futer">
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-1"></div>
+
+            <div class="col-sm-3">
+                <div class="row">
+                    <div class="col-sm-2">
+                        <i class="fas fa-map-marker-alt"></i>
+                    </div>
+                    <div class="col-sm-6">
+                      <p class="">Nova-101 37 <br>21203 <br>Veternik <br>Srbija</p>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-sm-3">
+                <div class="row">
+                    <div class="col-sm-2">
+                        <i class="fas fa-phone-square"></i>
+                    </div>
+                    <div class="col-sm-6">
+                     <p class="adresa">000/000-000</p>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-sm-3">
+                <div class="row">
+                    <div class="col-sm-2">
+                        <i class="fas fa-envelope-square"></i>
+                    </div>
+                    <div class="col-sm-6">
+                      <p class="adresa">Tenis@gmail.com</p>
+                    </div>
+                </div>
+
+            </div>
             <div class="col-sm-2">
                 <h6>Copyright &copy; 2018 TVRĐAVA 021</h6>
             </div>
-            <div class="col-sm-4">
-                <h6>O nama</h6>
-                <p></p>
-            </div>
 
-            <div class="col-sm-2">
-                <h6>Navigation</h6>
-                <ul class="unstyled">
-                    <li><a href="">Home</a></li>
-                    <li><a href="">Services</a></li>
-                    <li><a href="">Links</a></li>
-                    <li><a href="">Contact</a></li>
-                </ul>
 
-            </div>
-            <div class="col-sm-2">
-                <h6>Follow Us</h6>
-                <ul class="unstyled">
-                    <li><a href="">Twitter</a></li>
-                    <li><a href="">Facebook</a></li>
-                    <li><a href="">Google Plus</a></li>
-                </ul>
-            </div>
 
         </div>
     </div>

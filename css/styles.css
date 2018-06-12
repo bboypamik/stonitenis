@@ -17,16 +17,19 @@ body i{
     color: red;
     font-size: 2rem;
 }
+
 .navbar{
     background: transparent;
-    height: 100px;
     transition: 0.3s all;
     font-size: 1.2rem;
 }
 .navbar.smaller{
     background: rgba(255,255,255,0.98);
-    height: 70px;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.05);
+    min-height: 70px;
+    background: #fff;
 }
+
 .navbar li a{
     text-shadow: 1px 1px 8px #000;
 }
@@ -41,6 +44,15 @@ body i{
 .navbar i {
     margin-left: 25px;
 }
+
+.navbar .navbar-toggler-icon{
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(236,13,93, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E")
+}
+
+.navbar.smaller .navbar-toggler-icon{
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0,0,0, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E")
+}
+
 .logo svg{
     height: 40px;
     width: auto;
@@ -49,7 +61,7 @@ body i{
     fill:#fff;
 }
 
-.smaller .logo svg path{
+.logo.smaller svg path{
     fill:#000;
 }
 
@@ -93,7 +105,10 @@ body i{
 footer {
     background: #212529;
     color: white;
+    font-size: 1.5rem;
+    border-top: 5px solid red;
 }
+
 
 .topFooter {
     height: 40px;
@@ -132,6 +147,9 @@ footer {
 
 .pricing h2{
     color:white;
+}
+.pricing h1{
+    font-size: 2.5rem;
 }
 
 .pricing li{
@@ -176,3 +194,36 @@ footer {
 .vatra {
     color:red !important;
 }
+
+@media (max-width: 480px) {
+    p {
+        font-size: 1.25rem;
+    }
+    #carouselExampleIndicators {
+        height: 200px;
+        overflow: hidden;
+    }
+    #svg3355 {
+        width: 190px;
+    }
+
+}
+
+
+
+
+
+.futer i {
+    font-size: 4rem;
+    margin-top: 40px;
+}
+.adresa{
+    margin-top: 50px;
+}
+
+.futer {
+    color:#cccccc ;
+}
+
+
+

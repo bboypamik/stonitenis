@@ -1,6 +1,18 @@
 $(document).ready(function () {
     //$('.test-popup-link').magnificPopup({type: 'image'});
 
+
+    $('.navbar-toggler-icon').click(function (e) {
+        if( $('.navbar').hasClass('white') ) {
+            $('.navbar').removeClass('smaller');
+            $('.navbar').removeClass('white');
+        }
+        else{
+            $('.navbar').addClass('smaller');
+            $('.navbar').addClass('white');
+        }
+    });
+
     $('.popup-gallery').magnificPopup({
         delegate: 'a',
         type: 'image',
@@ -42,3 +54,4 @@ $(document).ready(function () {
 
 
 new WOW().init();
+
