@@ -206,6 +206,13 @@ footer {
     #svg3355 {
         width: 190px;
     }
+.services-box {
+    padding-bottom: 15px;
+
+}
+.box-usluge {
+    border-radius: 3px;
+}
 
 }
 
