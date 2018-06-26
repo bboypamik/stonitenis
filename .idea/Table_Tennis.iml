@@ -5,5 +5,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="wordpress" />
+    <orderEntry type="module" module-name="kontoBootstrap" />
+    <orderEntry type="module" module-name="forum" />
   </component>
 </module>
