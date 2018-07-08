@@ -98,7 +98,15 @@ include 'db.php';
 
         <div class="collapse navbar-collapse" id="navbarMenu">
             <ul class="nav navbar-nav navbar-right ml-auto">
-                <li class="nav-item pr-2"><a class="nav-link slide-section"  href="#onama">O nama</a></li>
+
+                <li class="nav-item pr-2 dropdown"><a class="nav-link  dropdown-toggle" data-toggle="dropdown" id="navbarDropdown"  href="#onama">O nama</a>
+                <div class="dropdown-menu " aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item " data-toggle="modal"  data-target="#statut-detaljnije" href="images/table_tennis1.jpeg">statut</a>
+                    <a class="dropdown-item"  data-toggle="modal"  data-target="#diplome-detaljnije" href="#">dozvola za rad</a>
+                    <a class="dropdown-item"  data-toggle="modal"  data-target="#potvrda-detaljnije" href="#">potvrda</a>
+                    <a class="dropdown-item"  data-toggle="modal"  data-target="#diploma-detaljnije" href="#">diploma</a>
+                </div>
+                </li>
                 <li class="nav-item pr-2"><a class="nav-link slide-section" href="#cenovnik">Cenovnik</a></li>
                 <li class="nav-item pr-2"><a class="nav-link slide-section" href="#galerija">Galerija</a></li>
                 <li class="nav-item pr-2"><a class="nav-link slide-section" href="#kontakt">Info</a></li>
@@ -107,7 +115,98 @@ include 'db.php';
         </div>
 
     </nav>
+    <div class="modal fade" id="statut-detaljnije">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
 
+                <!-- Modal Header -->
+                <div class="modal-header">
+                    <h4 class="modal-title">statut</h4>
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+
+                <!-- Modal body -->
+                <div class="modal-body">
+                    <img src="images/statut.jpg" width="100%" alt="">
+                </div>
+
+                <!-- Modal footer -->
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal">Zatvori</button>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" id="diplome-detaljnije">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+
+                <!-- Modal Header -->
+                <div class="modal-header">
+                    <h4 class="modal-title">dozvola za rad</h4>
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+
+                <!-- Modal body -->
+                <div class="modal-body">
+                    <img src="images/tvrđava0002.jpg" width="100%" alt="">
+                </div>
+
+                <!-- Modal footer -->
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal">Zatvori</button>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" id="potvrda-detaljnije">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+
+                <!-- Modal Header -->
+                <div class="modal-header">
+                    <h4 class="modal-title">potvrda</h4>
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+
+                <!-- Modal body -->
+                <div class="modal-body">
+                    <img src="images/tvrđava0003.jpg" width="100%" alt="">
+                </div>
+
+                <!-- Modal footer -->
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal">Zatvori</button>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" id="diploma-detaljnije">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+
+                <!-- Modal Header -->
+                <div class="modal-header">
+                    <h4 class="modal-title">diploma</h4>
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+
+                <!-- Modal body -->
+                <div class="modal-body">
+                    <img src="images/Diploma.jpg" width="100%" alt="">
+                </div>
+
+                <!-- Modal footer -->
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal">Zatvori</button>
+                </div>
+
+            </div>
+        </div>
+    </div>
 </div>
 <?php
 if (isset($_GET['stranica'])) {

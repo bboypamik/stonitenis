@@ -59,6 +59,9 @@ if ($conn->query($sql)) {
         <textarea cols="44" name="text" rows="10" class="form-control mb-2 forma"></textarea>
         <input type="submit" name="submit" value="Kreiraj" class="form-control mb-4 btn-primary forma mb-5">
     </form>
+    <script>
+        CKEDITOR.replace( 'text' );
+    </script>
 </div>
 
 <?php endif; ?>

@@ -117,9 +117,10 @@ function skracivanje($opis)
 
 <div id="onama"></div>
 <div class="about pb-5">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-6">
+    <div class="container-fluid">
+        <div class="row red-1">
+            <div class="col"></div>
+            <div class="col-lg-3">
                 <h2 class="text-center pb-5 pt-5">O nama</h2>
                 <div class="aboutUs wow bounceInUp">
                     <img src="images/o_nama.jpg" class="img-fluid mb-3">
@@ -135,7 +136,7 @@ function skracivanje($opis)
                     </p>
                 </div>
             </div>
-            <div class="col-lg-6 istorijat">
+            <div class="col-lg-3 istorijat">
                 <h2 class="text-center pb-5 pt-5">Istorijat</h2>
                 <div class="aboutUs wow bounceInUp">
                     <img src="images/tebale-tenni-istorijat.jpg" height="" class="img-fluid mb-3">
@@ -151,7 +152,23 @@ function skracivanje($opis)
                     </p>
                 </div>
             </div>
+            <div class="col-lg-3 statut">
+                <h2 class="text-center pb-5 pt-5">Stručni tim</h2>
+                <div class="aboutUs wow bounceInUp">
+                    <img src="images/approved2.jpg" class="img-fluid mb-3" style="height: 200px; width: 100%">
+                    <p class="">Statut, Dozvola za rad, diploma. stručni tim
+                    </p>
+                    <p class="text-center">
+                        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#onama-detaljnije">
+                            Detaljnije
+                        </button>
+                    </p>
+                </div>
+            </div>
+            <div class="col"></div>
+
         </div>
+
 
         <!-- The Modal -->
         <div class="modal fade" id="onama-detaljnije">

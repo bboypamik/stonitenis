@@ -253,3 +253,15 @@ footer {
 }
 
 
+
+.statut img{
+    height: 45px;
+}
+
+.dropdown:hover>.dropdown-menu{
+    display: block;
+}
+
+
+
+
